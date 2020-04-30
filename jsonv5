@@ -6,9 +6,7 @@
     "direccio": "Carrer Pura Nº 1 ",
     "email": "contacto@cipriano.com",
     "web": "hotelcipriano.com",
-    "Wifi": true,
     "PreuSalaActes": 20,
-    "Serveis": {"Wifi":true, "Televisió":true, "Telefon":true},
     "Agregadors": [{
             "id": 0,
             "nom": "Polo Norton",
