@@ -1,0 +1,546 @@
+[{
+    "id": 0,
+    "nom": "Hotel Cipriano",
+    "estrelles": 4,
+    "telefon": 676984328,
+    "direccio": "Carrer Pura Nº 1 ",
+    "email": "contacto@cipriano.com",
+    "web": "hotelcipriano.com",
+    "comedor": true,
+    "piscina": true,
+    "sala": true,
+    "wifi": false,
+    "ordinadors": true,
+    "bar": true,
+    "PreuSalaActes": 20,
+    "Agregadors": [{
+            "id": 0,
+            "nom": "Polo Norton",
+            "Web": "PNorton.com"
+        },
+        {
+            "id": 1,
+            "nom": "TanoC",
+            "Web": "TanoC.com"
+        },
+        {
+            "id": 2,
+            "nom": "RedAlice",
+            "Web": "Redalice.com"
+        }
+    ],
+    "Habitacions": [{
+            "id": 0,
+            "Llitsindividuals": 1,
+            "Llitsdobles": 0,
+            "Bany": ["dutxa", "banyera", "tovalloles"],
+            "Cuina": ["Microones", "Frigorífic"],
+            "Serveis": ["Wifi", "Televisió", "Telefon"],
+            "Preus": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 15,
+                    "Impostos": 20,
+                    "Comissió": 12,
+                    "PreuTotal": 10.8,
+                    "idAgregador": 0,
+                    "preuAgregador": 13
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 30,
+                    "Impostos": 20,
+                    "Comissió": 27,
+                    "PreuTotal": 22.8,
+                    "idAgregador": 0,
+                    "preuAgregador": 24
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 15,
+                    "Impostos": 20,
+                    "Comissió": 12,
+                    "PreuTotal": 10.8,
+                    "idAgregador": 1,
+                    "preuAgregador": 12
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 30,
+                    "Impostos": 20,
+                    "Comissió": 27,
+                    "PreuTotal": 22.8,
+                    "idAgregador": 1,
+                    "preuAgregador": 23
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 15,
+                    "Impostos": 20,
+                    "Comissió": 12,
+                    "PreuTotal": 10.8,
+                    "idAgregador": 2,
+                    "preuAgregador": 14
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 30,
+                    "Impostos": 20,
+                    "Comissió": 27,
+                    "PreuTotal": 22.8,
+                    "idAgregador": 2,
+                    "preuAgregador": 25
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "Llitsindividuals": 1,
+            "Llitsdobles": 2,
+            "Bany": ["dutxa", "banyera", "tovalloles", "xampu"],
+            "Cuina": ["Microones", "Frigorífic", "Forn"],
+            "Serveis": ["Minibar", "Wifi", "Ordinadors", "Televisió", "Telefon"],
+            "Preus": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 0,
+                    "preuAgregador": 22
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 50,
+                    "Impostos": 20,
+                    "Comissió": 48,
+                    "PreuTotal": 29.2,
+                    "idAgregador": 0,
+                    "preuAgregador": 32
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 1,
+                    "preuAgregador": 23
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 50,
+                    "Impostos": 20,
+                    "Comissió": 48,
+                    "PreuTotal": 29.2,
+                    "idAgregador": 1,
+                    "preuAgregador": 33
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 2,
+                    "preuAgregador": 21
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 50,
+                    "Impostos": 20,
+                    "Comissió": 48,
+                    "PreuTotal": 29.2,
+                    "idAgregador": 2,
+                    "preuAgregador": 31
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Llitsindividuals": 2,
+            "Llitsdobles": 2,
+            "Bany": ["dutxa", "banyera", "tovalloles", "jacuzzi"],
+            "Cuina": ["Microones", "Frigorífic", "Forn"],
+            "Serveis": ["Minibar", "Wifi", "Ordinadors", "Televisió", "Playstation 4", "Aire acondicionat", "Telefon"],
+            "Preus": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 50,
+                    "Impostos": 20,
+                    "Comissió": 48,
+                    "PreuTotal": 29.2,
+                    "idAgregador": 0,
+                    "preuAgregador": 34
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 100,
+                    "Impostos": 20,
+                    "Comissió": 98,
+                    "PreuTotal": 41.58,
+                    "idAgregador": 0,
+                    "preuAgregador": 46
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 50,
+                    "Impostos": 20,
+                    "Comissió": 48,
+                    "PreuTotal": 29.2,
+                    "idAgregador": 1,
+                    "preuAgregador": 33
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 100,
+                    "Impostos": 20,
+                    "Comissió": 98,
+                    "PreuTotal": 41.58,
+                    "idAgregador": 1,
+                    "preuAgregador": 45
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 50,
+                    "Impostos": 20,
+                    "Comissió": 48,
+                    "PreuTotal": 29.2,
+                    "idAgregador": 2,
+                    "preuAgregador": 32
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 100,
+                    "Impostos": 20,
+                    "Comissió": 98,
+                    "PreuTotal": 41.58,
+                    "idAgregador": 2,
+                    "preuAgregador": 44
+                }
+            ]
+        }
+    ]
+}, {
+    "id": 1,
+    "nom": "Hotel Dusk",
+    "estrelles": 2,
+    "telefon": 988761215,
+    "direccio": "Carrer Hyde Nº 215",
+    "email": "sam@hoteldusk.com",
+    "web": "hoteldusk.com",
+    "comedor": true,
+    "piscina": false,
+    "sala": true,
+    "wifi": false,
+    "ordinadors": false,
+    "bar": true,
+    "PreuSalaActes": 0,
+    "Agregadors": [{
+            "id": 3,
+            "nom": "Rootage",
+            "Web": "Rootage.com"
+        },
+        {
+            "id": 4,
+            "nom": "TrippingContact",
+            "Web": "TContact.com"
+        }
+    ],
+    "Habitacions": [{
+            "id": 0,
+            "Llitsindividuals": 1,
+            "Llitsdobles": 0,
+            "Bany": ["dutxa", "tovalloles"],
+            "Cuina": "Frigorífic",
+            "Serveis": ["Wifi", "Televisió", "Telefon"],
+            "Preu": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 8,
+                    "Impostos": 20,
+                    "Comissió": 6,
+                    "PreuTotal": 5.6,
+                    "idAgregador": 3,
+                    "preuAgregador": 10
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 16,
+                    "Impostos": 20,
+                    "Comissió": 14,
+                    "PreuTotal": 12,
+                    "idAgregador": 3,
+                    "preuAgregador": 21
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 8,
+                    "Impostos": 20,
+                    "Comissió": 6,
+                    "PreuTotal": 5.6,
+                    "idAgregador": 4,
+                    "preuAgregador": 8
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 16,
+                    "Impostos": 20,
+                    "Comissió": 14,
+                    "PreuTotal": 12,
+                    "idAgregador": 4,
+                    "preuAgregador": 19
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "Llitsindividuals": 1,
+            "Llitsdobles": 2,
+            "Bany": ["dutxa", "xampu", "tovalloles"],
+            "Cuina": ["Microones", "Frigorífic"],
+            "Serveis": ["Wifi", "Televisió", "Telefon"],
+            "Preu": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 15,
+                    "Impostos": 20,
+                    "Comissió": 13,
+                    "PreuTotal": 11.2,
+                    "idAgregador": 3,
+                    "preuAgregador": 15
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 3,
+                    "preuAgregador": 23
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 15,
+                    "Impostos": 20,
+                    "Comissió": 13,
+                    "PreuTotal": 11.2,
+                    "idAgregador": 4,
+                    "preuAgregador": 13
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 16,
+                    "Impostos": 20,
+                    "Comissió": 14,
+                    "PreuTotal": 12,
+                    "idAgregador": 4,
+                    "preuAgregador": 15
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Llitsindividuals": 2,
+            "Llitsdobles": 2,
+            "Bany": ["dutxa", "xampu", "tovalloles"],
+            "Cuina": ["Microones", "Frigorífic", "Forn"],
+            "Serveis": ["Wifi", "Televisió", "Telefon", "Ordinadors"],
+            "Preu": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 3,
+                    "preuAgregador": 23
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 35,
+                    "Impostos": 20,
+                    "Comissió": 33,
+                    "PreuTotal": 27.2,
+                    "idAgregador": 3,
+                    "preuAgregador": 31
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 3,
+                    "preuAgregador": 21
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 16,
+                    "Impostos": 20,
+                    "Comissió": 14,
+                    "PreuTotal": 12,
+                    "idAgregador": 4,
+                    "preuAgregador": 14
+                }
+            ]
+        }
+    ]
+}, {
+    "id": 2,
+    "nom": "Hotel Mario",
+    "estrelles": 5,
+    "telefon": 659847123,
+    "direccio": "Avinguda Toadstool Nº12",
+    "email": "recepcio@hotelmario.com",
+    "web": "hotelmario.com",
+    "comedor": true,
+    "piscina": true,
+    "sala": true,
+    "wifi": true,
+    "ordinadors": true,
+    "bar": true,
+    "PreuSalaActes": 80,
+    "Agregadors": [{
+            "id": 5,
+            "nom": "ParadigmX",
+            "Web": "ParadigmX.com"
+        },
+        {
+            "id": 6,
+            "nom": "Amami",
+            "Web": "Amami.com"
+        }
+    ],
+    "Habitacions": [{
+            "id": 0,
+            "Llitsindividuals": 1,
+            "Llitsdobles": 0,
+            "Bany": ["dutxa", "tovalloles", "xampu", "jacuzzi"],
+            "Cuina": ["Frigorífic", "Forn", "Microones"],
+            "Serveis": ["Wifi", "Televisió", "Telefon"],
+            "Preu": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 23
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 35,
+                    "Impostos": 20,
+                    "Comissió": 33,
+                    "PreuTotal": 27.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 31
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 25,
+                    "Impostos": 20,
+                    "Comissió": 23,
+                    "PreuTotal": 19.2,
+                    "idAgregador": 6,
+                    "preuAgregador": 21
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 16,
+                    "Impostos": 20,
+                    "Comissió": 14,
+                    "PreuTotal": 12,
+                    "idAgregador": 6,
+                    "preuAgregador": 14
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "Llitsindividuals": 1,
+            "Llitsdobles": 2,
+            "Bany": ["dutxa", "tovalloles", "xampu", "jacuzzi"],
+            "Cuina": ["Frigorífic", "Forn", "Microones"],
+            "Serveis": ["Wifi", "Televisió", "Telefon", "Piscina privada"],
+            "Preu": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 100,
+                    "Impostos": 20,
+                    "Comissió": 98,
+                    "PreuTotal": 79.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 85
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 175,
+                    "Impostos": 20,
+                    "Comissió": 173,
+                    "PreuTotal": 139.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 145
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 100,
+                    "Impostos": 20,
+                    "Comissió": 98,
+                    "PreuTotal": 79.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 83
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 175,
+                    "Impostos": 20,
+                    "Comissió": 173,
+                    "PreuTotal": 139.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 143
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Llitsindividuals": 2,
+            "Llitsdobles": 2,
+            "Bany": ["dutxa", "tovalloles", "xampu", "jacuzzi"],
+            "Cuina": ["Frigorífic", "Forn", "Microones", "Cuiner personal"],
+            "Serveis": ["Wifi", "Televisió", "Telefon", "Piscina privada"],
+            "Preu": [{
+                    "TemporadaAlta": false,
+                    "PreuNet": 150,
+                    "Impostos": 20,
+                    "Comissió": 148,
+                    "PreuTotal": 113.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 120
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 215,
+                    "Impostos": 20,
+                    "Comissió": 213,
+                    "PreuTotal": 171.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 152
+                },
+                {
+                    "TemporadaAlta": false,
+                    "PreuNet": 150,
+                    "Impostos": 20,
+                    "Comissió": 148,
+                    "PreuTotal": 113.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 118
+                },
+                {
+                    "TemporadaAlta": true,
+                    "PreuNet": 215,
+                    "Impostos": 20,
+                    "Comissió": 213,
+                    "PreuTotal": 171.2,
+                    "idAgregador": 5,
+                    "preuAgregador": 150
+                }
+            ]
+        }
+    ]
+}]
