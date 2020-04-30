@@ -30,7 +30,7 @@
             "Bany":{"dutxa":true,"banyera":true, "tovalloles":true},
             "Cuina": {"Microones":true, "Frigorífic":true},
             "Serveis": {"Wifi":true, "Televisió":true, "Telefon":true},
-            "Preus": [{
+            "Preu": [{
                     "TemporadaAlta": false,
                     "PreuNet": 15,
                     "Impostos": 20,
@@ -93,7 +93,7 @@
             "Bany": {"dutxa":true, "banyera":true, "tovalloles":true, "xampu":true},
             "Cuina": {"dutxa":true, "Frigorífic":true, "Forn":true},
             "Serveis": {"Minibar":true, "Wifi":true, "Ordinadors":true, "Televisió":true, "Telefon":true},
-            "Preus": [{
+            "Preu": [{
                     "TemporadaAlta": false,
                     "PreuNet": 25,
                     "Impostos": 20,
@@ -156,7 +156,7 @@
             "Bany": {"dutxa":true, "banyera":true, "tovalloles":true, "jacuzzi":true},
             "Cuina": {"Microones":true, "Frigorífic":true, "Forn":true},
             "Serveis": {"Minibar":true, "Wifi":true, "Ordinadors":true, "Televisió":true, "Playstation4":true, "Aireacondicionat":true, "Telefon":true},
-            "Preus": [{
+            "Preu": [{
                     "TemporadaAlta": false,
                     "PreuNet": 50,
                     "Impostos": 20,
