@@ -31,7 +31,8 @@
     ],
     "Habitacions": [{
             "id": "0",
-            "Llits": "1",
+            "Llits individuals": "1",
+            "Llits dobles": "0",
             "Bany": ["dutxa", "banyera", "tovalloles"],
             "Cuina": ["Microones", "Frigorífic"],
             "Serveis": ["Wifi", "Televisió", "Telefon"],
@@ -93,8 +94,9 @@
         },
         {
             "id": "1",
-            "Llits": "2",
-            "Bany": ["dutxa", "banyera", "tovalloles", "champu"],
+            "Llits individuals": "1",
+            "Llits dobles": "2",
+            "Bany": ["dutxa", "banyera", "tovalloles", "xampu"],
             "Cuina": ["Microones", "Frigorífic", "Forn"],
             "Serveis": ["Minibar", "Wifi", "Ordinadors", "Televisió", "Telefon"],
             "Preus": [{
@@ -155,10 +157,11 @@
         },
         {
             "id": "2",
-            "Llits": "4",
+            "Llits individuals": "2",
+            "Llits dobles": "2",
             "Bany": ["dutxa", "banyera", "tovalloles", "jacuzzi"],
             "Cuina": ["Microones", "Frigorífic", "Forn"],
-            "Serveis": ["Minibar", "Wifi", "Ordinadors", "Televisió", "Vista a la platja", "Playstation 4", "Aire acondicionat", "Telefon"],
+            "Serveis": ["Minibar", "Wifi", "Ordinadors", "Televisió", "Playstation 4", "Aire acondicionat", "Telefon"],
             "Preus": [{
                     "Temporada": "Baixa",
                     "PreuNet": "50",
@@ -244,7 +247,8 @@
     ],
     "Habitacions": [{
             "id": "0",
-            "Llits": "1",
+            "Llits individuals": "0",
+            "Llits dobles": "2",
             "Bany": ["dutxa", "tovalloles"],
             "Cuina": "Frigorífic",
             "Serveis": ["Wifi", "Televisió", "Telefon"],
@@ -288,8 +292,9 @@
         },
         {
             "id": "1",
-            "Llits": "2",
-            "Bany": ["dutxa", "champu", "tovalloles"],
+            "Llits individuals": "2",
+            "Llits dobles": "1",
+            "Bany": ["dutxa", "xampu", "tovalloles"],
             "Cuina": ["Microones", "Frigorífic"],
             "Serveis": ["Wifi", "Televisió", "Telefon"],
             "Preu": [{
@@ -332,8 +337,9 @@
         },
         {
             "id": "2",
-            "Llits": "4",
-            "Bany": ["dutxa", "champu", "tovalloles"],
+            "Llits individuals": "2",
+            "Llits dobles": "3",
+            "Bany": ["dutxa", "xampu", "tovalloles"],
             "Cuina": ["Microones", "Frigorífic", "Forn"],
             "Serveis": ["Wifi", "Televisió", "Telefon", "Ordinadors"],
             "Preu": [{
@@ -403,8 +409,9 @@
     ],
     "Habitacions": [{
             "id": "0",
-            "Llits": "3",
-            "Bany": ["dutxa", "tovalloles", "champu", "jacuzzi"],
+            "Llits individuals": "2",
+            "Llits dobles": "1",
+            "Bany": ["dutxa", "tovalloles", "xampu", "jacuzzi"],
             "Cuina": ["Frigorífic", "Forn", "Microones"],
             "Serveis": ["Wifi", "Televisió", "Telefon"],
             "Preu": [{
@@ -447,8 +454,9 @@
         },
         {
             "id": "1",
-            "Llits": "4",
-            "Bany": ["dutxa", "tovalloles", "champu", "jacuzzi"],
+            "Llits individuals": "3",
+            "Llits dobles": "4",
+            "Bany": ["dutxa", "tovalloles", "xampu", "jacuzzi"],
             "Cuina": ["Frigorífic", "Forn", "Microones"],
             "Serveis": ["Wifi", "Televisió", "Telefon", "Piscina privada"],
             "Preu": [{
@@ -491,8 +499,9 @@
         },
         {
             "id": "2",
-            "Llits": "7",
-            "Bany": ["dutxa", "tovalloles", "champu", "jacuzzi"],
+            "Llits individuals": "5",
+            "Llits dobles": "3",
+            "Bany": ["dutxa", "tovalloles", "xampu", "jacuzzi"],
             "Cuina": ["Frigorífic", "Forn", "Microones", "Cuiner personal"],
             "Serveis": ["Wifi", "Televisió", "Telefon", "Piscina privada"],
             "Preu": [{
