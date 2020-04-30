@@ -7,7 +7,7 @@
     "email": "contacto@cipriano.com",
     "web": "hotelcipriano.com",
     "comedor": true,
-    "piscina": false,
+    "piscina": true,
     "sala": true,
     "wifi": false,
     "ordinadors": true,
