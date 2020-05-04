@@ -7,7 +7,7 @@
     "email": "contacto@cipriano.com",
     "web": "hotelcipriano.com",
     "PreuSalaActes": 20,
-    "Imatge": "https://github.com/JRamirez765/JuanJSON/blob/master/Hotel-Cipriani.jpg",
+    "Imatge": "https://raw.githubusercontent.com/JRamirez765/JuanJSON/master/Hotel-Cipriani.jpg",
     "Descripcio": "Un hotel tradicional amb menjar típic espanyol, amb una bodega de vi d'alta reputació i amb la famosa tenda de purs Capità Cipriano",
     "Agregadors": [{
             "id": 0,
@@ -223,7 +223,7 @@
     "direccio": "Carrer Hyde Nº 215",
     "email": "sam@hoteldusk.com",
     "web": "hoteldusk.com",
-    "Imatge": "https://github.com/JRamirez765/JuanJSON/blob/master/Hotel-Dusk.jpg",
+    "Imatge": "https://raw.githubusercontent.com/JRamirez765/JuanJSON/master/Hotel-Dusk.jpg",
     "Descripcio": "Aquest petit acollidor hotel te molta història, es fan tours a la montanya i té molta popularitat a causa de la novel·la detectivesca Hotel Dusk: Room 215",
     "PreuSalaActes": 0,
     "Agregadors": [{
@@ -381,7 +381,7 @@
     "direccio": "Avinguda Toadstool Nº12",
     "email": "recepcio@hotelmario.com",
     "web": "hotelmario.com",
-    "Imatge": "https://github.com/JRamirez765/JuanJSON/blob/master/Hotel-Mario.jpg",
+    "Imatge": "https://raw.githubusercontent.com/JRamirez765/JuanJSON/master/Hotel-Mario.jpg",
     "Descripcio": "Gran hotel resort fundat pels germans Mario i Luigi, és un hotel molt luxós que és molt popular per diverses raons, la principal per el petit parc d'atraccions que té",
     "PreuSalaActes": 80,
     "Agregadors": [{
