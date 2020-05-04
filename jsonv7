@@ -7,6 +7,7 @@
     "email": "contacto@cipriano.com",
     "web": "hotelcipriano.com",
     "PreuSalaActes": 20,
+    "Descripcio": "Un hotel tradicional amb menjar típic espanyol, amb una bodega de vi d'alta reputació i amb la famosa tenda de purs Capità Cipriano",
     "Agregadors": [{
             "id": 0,
             "nom": "Polo Norton",
@@ -30,7 +31,6 @@
             "Bany":{"dutxa":true,"banyera":true, "tovalloles":true},
             "Cuina": {"Microones":true, "Frigorífic":true},
             "Serveis": {"Wifi":true, "Televisió":true, "Telefon":true},
-            "Descripcio": "aaaaaaaaaaaa",
             "Preu": [{
                     "TemporadaAlta": false,
                     "PreuNet": 15,
@@ -222,6 +222,7 @@
     "direccio": "Carrer Hyde Nº 215",
     "email": "sam@hoteldusk.com",
     "web": "hoteldusk.com",
+    "Descripcio": "Aquest petit acollidor hotel te molta història, es fan tours a la montanya i té molta popularitat a causa de la novel·la detectivesca Hotel Dusk: Room 215",
     "PreuSalaActes": 0,
     "Agregadors": [{
             "id": 3,
@@ -378,6 +379,7 @@
     "direccio": "Avinguda Toadstool Nº12",
     "email": "recepcio@hotelmario.com",
     "web": "hotelmario.com",
+    "Descripcio": "Gran hotel resort fundat pels germans Mario i Luigi, és un hotel molt luxós que és molt popular per diverses raons, la principal per el petit parc d'atraccions que té",
     "PreuSalaActes": 80,
     "Agregadors": [{
             "id": 5,
