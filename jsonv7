@@ -30,6 +30,7 @@
             "Bany":{"dutxa":true,"banyera":true, "tovalloles":true},
             "Cuina": {"Microones":true, "Frigorífic":true},
             "Serveis": {"Wifi":true, "Televisió":true, "Telefon":true},
+            "Descripcio": "aaaaaaaaaaaa",
             "Preu": [{
                     "TemporadaAlta": false,
                     "PreuNet": 15,
@@ -91,7 +92,7 @@
             "Llitsindividuals": 1,
             "Llitsdobles": 2,
             "Bany": {"dutxa":true, "banyera":true, "tovalloles":true, "xampu":true},
-            "Cuina": {"dutxa":true, "Frigorífic":true, "Forn":true},
+            "Cuina": {"Frigorífic":true, "Forn":true},
             "Serveis": {"Minibar":true, "Wifi":true, "Ordinadors":true, "Televisió":true, "Telefon":true},
             "Preu": [{
                     "TemporadaAlta": false,
