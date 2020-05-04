@@ -8,6 +8,7 @@
     "web": "hotelcipriano.com",
     "PreuSalaActes": 20,
     "Descripcio": "Un hotel tradicional amb menjar típic espanyol, amb una bodega de vi d'alta reputació i amb la famosa tenda de purs Capità Cipriano",
+    "Imatge": "https://pm1.narvii.com/6465/db9919e0a8743c7016f843bbb5356f1cb0215721_hq.jpg",
     "Agregadors": [{
             "id": 0,
             "nom": "Polo Norton",
